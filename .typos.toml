@@ -6,6 +6,7 @@ iterm = "iterm"
 ITERM = "ITERM"
 asend = "asend"
 certifi = "certifi"
+Claus = "Claus"
 
 [default.extend-identifiers]
 # macOS pasteboard four-char-code for the PNG flavor — required verbatim
